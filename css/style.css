@@ -649,6 +649,6 @@ h1{
 #footer .copy-right span{
     color: #FF305B;
 }
-#footer .active:hover{
+#footer i:hover{
     color: #FF305B;
 }
